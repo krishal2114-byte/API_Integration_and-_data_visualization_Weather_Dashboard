@@ -1,1 +1,15 @@
 python-dotenv
+
+#install these libraries using these commands
+
+pip install streamlit
+
+pip install seaborn
+
+pip install matplotlib
+
+pip install pandas
+
+pip install requests
+
+# make sure to create a virtual environment.
